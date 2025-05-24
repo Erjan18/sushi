@@ -16,7 +16,7 @@ export const categories: Category[] = [
     id: "speciality-rolls",
     name: "Specialty Rolls",
     description: "Premium signature rolls with unique combinations",
-    image: "https://images.pexels.com/photos/8952733/pexels-photo-8952733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    image: "https://www.sushinine.com/wp-content/uploads/2017/10/Reddragon.jpg"
   },
   {
     id: "nigiri",
