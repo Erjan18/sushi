@@ -1,0 +1,60 @@
+{
+  "common": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "categories": "Categories",
+    "search": "Search",
+    "favorites": "Favorites",
+    "cart": "Cart",
+    "backToCatalog": "Back to Catalog"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "ingredients": "Ingredients",
+    "quantity": "Quantity",
+    "weight": "Weight",
+    "spicy": "Spicy",
+    "vegetarian": "Vegetarian",
+    "relatedProducts": "You might also like"
+  },
+  "cart": {
+    "empty": "Your cart is empty",
+    "emptyMessage": "Looks like you haven't added any items to your cart yet.",
+    "browseCatalog": "Browse Catalog",
+    "orderSummary": "Order Summary",
+    "items": "Items",
+    "delivery": "Delivery",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "clearCart": "Clear Cart",
+    "continueShopping": "Continue Shopping"
+  },
+  "favorites": {
+    "empty": "Your favorites list is empty",
+    "emptyMessage": "You haven't added any items to your favorites yet."
+  },
+  "home": {
+    "hero": {
+      "title": "Authentic Japanese Sushi & Rolls",
+      "subtitle": "Discover our handcrafted selection of premium sushi made with the freshest ingredients",
+      "exploreMenu": "Explore Menu",
+      "viewSpecials": "View Specials"
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "Explore our wide variety of sushi options",
+      "viewAll": "View All"
+    },
+    "featured": {
+      "title": "Top Rated",
+      "subtitle": "Our customers' favorite selections"
+    },
+    "about": {
+      "title": "Our Story",
+      "text1": "At SushiMaster, we're passionate about bringing the authentic flavors of Japan to your table. Our experienced chefs use only the freshest ingredients, preparing each dish with meticulous attention to detail and respect for traditional techniques.",
+      "text2": "We take pride in serving sushi that not only delights your taste buds but also provides a genuine Japanese culinary experience. From classic rolls to specialty creations, every item on our menu is crafted to perfection.",
+      "exploreMenu": "Explore Our Menu"
+    }
+  }
+}
